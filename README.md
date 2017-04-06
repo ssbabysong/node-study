@@ -1,5 +1,5 @@
 # node-study
-## npm 发布模块
+## npm 发布模块（书上给的例子）
 
 1. 写package.json
 2. $npm pack
